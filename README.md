@@ -19,5 +19,11 @@ This section is: What did I learn and put into practice.
 
 ## Progress Shots
 
-<img src="images/start.png" width=500/>
+Starting File:
+
+<img src="images/start.png" width=500 />
+
+Added animation transition to class="block":
+
+<img src="images/transitions.png" width=500 />
 
