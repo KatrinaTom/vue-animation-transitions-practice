@@ -1,5 +1,7 @@
 # Practice Vue Transitions and Animations
 
+Practice is from Udemy Course by Maximilian Schwarzmüller. 
+
 ## To Start
 
 ``npm install``
