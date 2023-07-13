@@ -14,7 +14,11 @@ This section is: What did I learn and put into practice.
 * CSS Transform and Transition
 * Vue: @Click, data set to false, in method set to true
 * @keyframes and animation CSS property
-* Vue component "Transition". Can only wrap around one child element. Manipulates the element. 
+* Vue component "Transition". Can only wrap around one child element. Manipulates the element. (.v-enter-from, .v-enter-active, .v-enter-to)
+
+<img src="images/transitionsCode.png" width=200 />
+
+* 
 
 
 ## Progress Shots
