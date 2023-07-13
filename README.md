@@ -31,3 +31,7 @@ Added animation transition to class="block":
 
 <img src="images/transitions.png" width=500 />
 
+Practice Vue Transitions on modal
+
+<img src="images/vueTransitions.png" width=500 />
+
