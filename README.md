@@ -18,7 +18,10 @@ This section is: What did I learn and put into practice.
 
 <img src="images/transitionsCode.png" width=200 />
 
-* 
+* JavaScript animation with greensock.com 
+
+https://greensock.com/
+
 
 
 ## Progress Shots
